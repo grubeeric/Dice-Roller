@@ -1,4 +1,4 @@
-Dice-Roller
+Practice-Exercises
 ===========
 
-A Java GUI I made that lets the user choose how many sides a dice has, and then prints out the result to the user in the GUI. I made it to use with board games with my friends.
+A collection of small practice programs I have written to improve my algorithmic techniques. It also includes a small amount of trivial side projects I have created. Mostly for my benefit and practice only.
